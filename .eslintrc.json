@@ -14,6 +14,9 @@
   "plugins": ["react"],
   "rules": {
     "no-use-before-define": "off",
-    "quotes": "off"
+    "quotes": "off",
+    "object-curly-newline": "off",
+    "react/prop-types": "off",
+    "arrow-body-style": "off"
   }
 }
